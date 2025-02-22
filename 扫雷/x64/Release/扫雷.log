@@ -1,0 +1,24 @@
+﻿E:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(扫雷.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+  MineSweeper.cpp
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(8,37): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(8,23): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(8,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(184,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(184,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(188,94): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(188,73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(188,52): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(188,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(191,94): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(191,73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(191,52): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(191,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(227,35): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\Visual Studio\C++\FloatStudio\MineSweeper\扫雷\MineSweeper.cpp(226,44): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  449 of 632 functions (71.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  扫雷.vcxproj -> F:\Visual Studio\C++\FloatStudio\MineSweeper\x64\Release\MineSweeper.exe
